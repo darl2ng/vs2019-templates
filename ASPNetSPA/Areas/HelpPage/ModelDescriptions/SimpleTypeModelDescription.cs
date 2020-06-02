@@ -1,0 +1,6 @@
+namespace ASPNetFrameworkSPA.Areas.HelpPage.ModelDescriptions
+{
+    public class SimpleTypeModelDescription : ModelDescription
+    {
+    }
+}
